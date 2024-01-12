@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df34174d.css",
+    "main.js": "/static/js/main.0eb3432b.js",
+    "static/media/cyber.jpg": "/static/media/cyber.2134fd27894bd6b3abd4.jpg",
+    "static/media/uiux.png": "/static/media/uiux.bfcfa16f82f3b8839909.png",
+    "static/media/clgbg.png": "/static/media/clgbg.57bae6437e31bb7c0608.png",
+    "static/media/poster.png": "/static/media/poster.b8d9e97215a318940cb7.png",
+    "static/media/cisco.png": "/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/avasoft.png": "/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/accenture.png": "/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/python.jpg": "/static/media/python.07aab68fac18f6bbaac0.jpg",
+    "static/media/clg.png": "/static/media/clg.4f6682b09a321c824dc0.png",
+    "static/media/bus.jpg": "/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/wipro.png": "/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/food.png": "/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/web.jpg": "/static/media/web.86962bbeea6499429d86.jpg",
+    "static/media/cognizant.png": "/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/mindtree.png": "/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/adobe.png": "/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.a2ad339a2695c508cf6d.png",
+    "static/media/zoho.png": "/static/media/zoho.a4800c71e2197a1ef657.png",
+    "static/media/about-background.png": "/static/media/about-background.0bd38a162b6c5a7da562.png",
+    "index.html": "/index.html",
+    "main.df34174d.css.map": "/static/css/main.df34174d.css.map",
+    "main.0eb3432b.js.map": "/static/js/main.0eb3432b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df34174d.css",
+    "static/js/main.0eb3432b.js"
+  ]
+}
